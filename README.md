@@ -1,4 +1,4 @@
-### Hi, I'm Paul 👋 thanks for visiting my profile!
+### Hi 👋 thanks for visiting my profile!
 
 - 💬 My Blog: https://thepaulmacca.com
 - 🌱 I’m currently learning Bicep, Docker, Linux and Kubernetes
